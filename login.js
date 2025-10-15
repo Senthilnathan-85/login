@@ -1,5 +1,5 @@
-var userNames = ['Solaiyappan','Sundaram','Joker','Professional','SolaiyappaTce'];
-var passwords = ['solai2701','jokerr31','ms130','Solai@2701','1125927'];
+var userNames = ['Solaiyappan','Sundaram','Joker','Professional','SolaiyappaTce','senthil'];
+var passwords = ['solai2701','jokerr31','ms130','Solai@2701','1125927','123456'];
 
 function login(){
   var userName = document.getElementById("oldUser").value;
